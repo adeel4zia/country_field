@@ -1,0 +1,11 @@
+name = Country Field
+description = 'Provides a field to select a country.'
+backdrop = 1.x
+version = 7.x-1.0
+type = module
+package = D7 Contrib To Backdrop custom
+dependencies[] = field
+files[] = views/views_handler_filter_country_field.inc
+
+
+
